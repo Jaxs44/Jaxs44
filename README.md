@@ -2,7 +2,7 @@
 - 👀 I’m interested in making easy game and some business.
 - 🌱 I’m currently learning which ever I'm interested something easy, in laymens terms.
 - 💔 I’m *not* looking to collaborate.
-- 📫 How to reach me is pretty limited, I do have a website, maybe twitter (X) will do.
+- 📫 How to reach me is pretty limited, I do have a website, maybe BlueSky will do.
 
 <!---
 Jaxs44/Jaxs44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
