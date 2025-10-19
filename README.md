@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning which ever I'm interested something easy, in laymens terms.
 - 💔 I’m *not* looking to collaborate.
 - 📫 How to reach me is pretty limited, I do have a website, maybe BlueSky will do.
+- 🤖 Most of the work will be AI assisted (for quick and easy way). Maybe one or so are works from myself.
+-- 🏢Though work is higher priority then coding/project, I can easily forget how-to.
 
 <!---
 Jaxs44/Jaxs44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
